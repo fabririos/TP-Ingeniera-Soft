@@ -1,8 +1,10 @@
 # TP-Ingeniera-Soft
-<<<<<<< andres
+
 Andres
-=======
+
 tp
 
+Perez Sanchez Fabian
+
 Lucas
->>>>>>> main
+
